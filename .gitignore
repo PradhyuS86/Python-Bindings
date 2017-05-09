@@ -1,0 +1,24 @@
+syntax: glob
+*.db
+*.egg-info
+*.log
+*.orig
+*.pickle
+*.pyc
+*.sublime-*
+*.swp
+*__pycache__*
+.cache/
+.coverage
+.idea/
+.Python
+bin/
+build
+config.ini
+dist
+docs/_build/
+htmlcov
+include/
+lib/
+pip-selfcheck.json
+pyvenv.cfg
